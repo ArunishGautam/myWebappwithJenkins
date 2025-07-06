@@ -1,2 +1,1 @@
-# myWebappwithJenkins
-myWebappwithJenkins
+# WebAppForJenkins
